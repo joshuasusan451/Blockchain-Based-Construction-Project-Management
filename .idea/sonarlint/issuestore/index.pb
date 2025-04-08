@@ -7,3 +7,7 @@ T
 $contracts/material-verification.clar,2/2/2214671a338a5fe4d2db9aab4ba0c2f51ae9f132
 V
 &contracts/contractor-verification.clar,3/1/31598ea6d75bf0563633738f827c50863008f27e
+K
+contracts/change-order.clar,b/6/b6a386e736ebc235cc08b0c8ae8006c169adee24
+J
+tests/change-order.test.ts,8/1/8134118ac97d9de0bca45088856eeebe70904f05
