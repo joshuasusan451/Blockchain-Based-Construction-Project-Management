@@ -5,3 +5,5 @@ R
 "contracts/milestone-completed.clar,3/2/32ebe21e0d871639a6bdf821eb3b98b63983cc8c
 T
 $contracts/material-verification.clar,2/2/2214671a338a5fe4d2db9aab4ba0c2f51ae9f132
+V
+&contracts/contractor-verification.clar,3/1/31598ea6d75bf0563633738f827c50863008f27e
